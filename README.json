@@ -39,7 +39,7 @@
             "last_commit": "2024-02-17T16:47:54Z",
             "owner": "Jinxiansen",
             "repo": "SwiftUI",
-            "stars": 5444
+            "stars": 5445
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2024-02-17T16:47:54Z",
             "owner": "Jinxiansen",
             "repo": "SwiftUI",
-            "stars": 5444
+            "stars": 5445
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-06-17T10:24:25Z",
             "owner": "sindresorhus",
             "repo": "KeyboardShortcuts",
-            "stars": 2695
+            "stars": 2696
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-07-08T08:22:38Z",
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1566
+            "stars": 1567
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2023-12-07T14:10:03Z",
             "owner": "ivanvorobei",
             "repo": "SwiftUI",
-            "stars": 5620
+            "stars": 5621
           }
         },
         {
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:46.579Z",
+    "last_updated": "2026-08-14T04:22:45.300Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
     "enhanced_repository": "enhansome/enhansome-swiftui",
