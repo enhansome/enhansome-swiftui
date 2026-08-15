@@ -67,7 +67,7 @@
             "last_commit": "2022-09-04T12:41:56Z",
             "owner": "SimpleBoilerplates",
             "repo": "SwiftUI-Cheat-Sheet",
-            "stars": 4460
+            "stars": 4461
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-07-08T08:22:38Z",
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1567
+            "stars": 1566
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2025-02-11T11:45:22Z",
             "owner": "dadalar",
             "repo": "SwiftUI-CardStackView",
-            "stars": 641
+            "stars": 640
           }
         },
         {
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:22:45.300Z",
+    "last_updated": "2026-08-15T03:12:38.926Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
     "enhanced_repository": "enhansome/enhansome-swiftui",
