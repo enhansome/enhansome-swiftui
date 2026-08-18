@@ -199,7 +199,7 @@
             "last_commit": "2026-06-17T10:24:25Z",
             "owner": "sindresorhus",
             "repo": "KeyboardShortcuts",
-            "stars": 2696
+            "stars": 2697
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-07-08T08:22:38Z",
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1566
+            "stars": 1567
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2025-11-10T17:10:41Z",
             "owner": "sindresorhus",
             "repo": "Settings",
-            "stars": 1551
+            "stars": 1550
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2026-03-02T08:41:42Z",
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5638
+            "stars": 5637
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2020-07-17T18:13:28Z",
             "owner": "unixzii",
             "repo": "SwiftUI-2048",
-            "stars": 733
+            "stars": 732
           }
         },
         {
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:27:31.836Z",
+    "last_updated": "2026-08-18T03:23:12.079Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
     "enhanced_repository": "enhansome/enhansome-swiftui",
