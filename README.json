@@ -1,763 +1,787 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "If you have a great content to share and want people to know about it ASAP then join our Reddit Community."
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📝 Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SwiftUI Cheat Sheet"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📺 Videos"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🛠 Examples"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Learning and Usage Guide",
-          "description": "by Jinxiansen",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-02-17T16:47:54Z",
-            "owner": "Jinxiansen",
-            "repo": "SwiftUI",
-            "stars": 5446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI Framework Learning and Usage Guide",
-          "description": "by Jinxiansen",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-02-17T16:47:54Z",
-            "owner": "Jinxiansen",
-            "repo": "SwiftUI",
-            "stars": 5446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI Cheat Sheet",
-          "description": "by SimpleBoilerplates",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-04T12:41:56Z",
-            "owner": "SimpleBoilerplates",
-            "repo": "SwiftUI-Cheat-Sheet",
-            "stars": 4460
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI Image view that displays an image downloaded from provided URL",
-          "description": "by Dmytro Anokhin",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2024-07-08T14:59:45Z",
-            "owner": "dmytro-anokhin",
-            "repo": "url-image",
-            "stars": 1156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Declarative HTTP networking, designed for SwiftUI",
-          "description": "by carson-katri",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-07-26T21:04:05Z",
-            "owner": "carson-katri",
-            "repo": "swift-request",
-            "stars": 740
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A flexible grid layout view for SwiftUI",
-          "description": "by pietropizzi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-02-21T13:56:51Z",
-            "owner": "pietropizzi",
-            "repo": "GridStack",
-            "stars": 659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI phone number text field",
-          "description": "by MojtabaHs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-02-28T07:30:29Z",
-            "owner": "MojtabaHs",
-            "repo": "iPhoneNumberField",
-            "stars": 583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets",
-          "description": "by a2",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2019-06-08T15:40:06Z",
-            "owner": "a2",
-            "repo": "KeyboardAvoiding",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FlowStack is a grid layout component",
-          "description": "by johnsusek",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2020-07-22T21:26:24Z",
-            "owner": "johnsusek",
-            "repo": "FlowStack",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flux pattern for SwiftUI",
-          "description": "by johnsusek",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2019-12-23T17:45:43Z",
-            "owner": "johnsusek",
-            "repo": "fluxus",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI support for drag and drop on iOS",
-          "description": "by brunogb",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-01-21T06:41:36Z",
-            "owner": "brunogb",
-            "repo": "SwiftUIDragDrop",
-            "stars": 40
-          }
-        }
-      ],
-      "title": "Helpers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app",
-          "description": "by Sindre Sorhus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-17T10:24:25Z",
-            "owner": "sindresorhus",
-            "repo": "KeyboardShortcuts",
-            "stars": 2698
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Defaults: replacement for UserDefaults",
-          "description": "by Sindre Sorhus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-23T21:26:22Z",
-            "owner": "sindresorhus",
-            "repo": "Defaults",
-            "stars": 2489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QGrid: The missing SwiftUI collection view",
-          "description": "by Q-Mobile",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-08-05T19:44:45Z",
-            "owner": "Q-Mobile",
-            "repo": "QGrid",
-            "stars": 1649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Walkthrough or onboarding flow with tap actions",
-          "description": "by Exyte",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-08T08:22:38Z",
-            "owner": "exyte",
-            "repo": "ConcentricOnboarding",
-            "stars": 1567
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Preferences: Create a macOS preferences window in SwiftUI",
-          "description": "by Sindre Sorhus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-11-10T17:10:41Z",
-            "owner": "sindresorhus",
-            "repo": "Settings",
-            "stars": 1550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ASCollectionView: A SwiftUI collection view",
-          "description": "by Apptek Studios",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2022-11-03T23:29:52Z",
-            "owner": "apptekstudios",
-            "repo": "ASCollectionView",
-            "stars": 1378
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS",
-          "description": "by Deniz Adalar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-02-11T11:45:22Z",
-            "owner": "dadalar",
-            "repo": "SwiftUI-CardStackView",
-            "stars": 640
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Render ring chart, sunburst chart and multilevel pie chart diagrams",
-          "description": "by lludo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-02-09T07:09:16Z",
-            "owner": "lludo",
-            "repo": "SwiftSunburstDiagram",
-            "stars": 551
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftSpeech: A speech recognition framework designed for SwiftUI",
-          "description": "by Cay Zhang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-07-27T11:37:15Z",
-            "owner": "Cay-Zhang",
-            "repo": "SwiftSpeech",
-            "stars": 531
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Async image loading",
-          "description": "by Callum Trounce",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-07-06T21:28:25Z",
-            "owner": "cmtrounce",
-            "repo": "SwURL",
-            "stars": 200
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI",
-          "description": "by Huy Bui Dac",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-09-04T02:39:40Z",
-            "owner": "huybuidac",
-            "repo": "SwiftUIFontIcon",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SharedObject: A new property wrapper for SwiftUI",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learning and Usage Guide",
+              "description": "by Jinxiansen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190082368,
+                "language": "Swift",
+                "last_commit": "2024-02-17T16:47:54Z",
+                "owner": "Jinxiansen",
+                "repo": "SwiftUI",
+                "stars": 5446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI Framework Learning and Usage Guide",
+              "description": "by Jinxiansen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190082368,
+                "language": "Swift",
+                "last_commit": "2024-02-17T16:47:54Z",
+                "owner": "Jinxiansen",
+                "repo": "SwiftUI",
+                "stars": 5446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI Cheat Sheet",
+              "description": "by SimpleBoilerplates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190864373,
+                "language": null,
+                "last_commit": "2022-09-04T12:41:56Z",
+                "owner": "SimpleBoilerplates",
+                "repo": "SwiftUI-Cheat-Sheet",
+                "stars": 4460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI Image view that displays an image downloaded from provided URL",
+              "description": "by Dmytro Anokhin",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 190926086,
+                "language": "Swift",
+                "last_commit": "2024-07-08T14:59:45Z",
+                "owner": "dmytro-anokhin",
+                "repo": "url-image",
+                "stars": 1156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Declarative HTTP networking, designed for SwiftUI",
+              "description": "by carson-katri",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196612897,
+                "language": "Swift",
+                "last_commit": "2022-07-26T21:04:05Z",
+                "owner": "carson-katri",
+                "repo": "swift-request",
+                "stars": 740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A flexible grid layout view for SwiftUI",
+              "description": "by pietropizzi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195657142,
+                "language": "Swift",
+                "last_commit": "2022-02-21T13:56:51Z",
+                "owner": "pietropizzi",
+                "repo": "GridStack",
+                "stars": 659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI phone number text field",
+              "description": "by MojtabaHs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307078190,
+                "language": "Swift",
+                "last_commit": "2025-02-28T07:30:29Z",
+                "owner": "MojtabaHs",
+                "repo": "iPhoneNumberField",
+                "stars": 583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets",
+              "description": "by a2",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 190723132,
+                "language": "Swift",
+                "last_commit": "2019-06-08T15:40:06Z",
+                "owner": "a2",
+                "repo": "KeyboardAvoiding",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlowStack is a grid layout component",
+              "description": "by johnsusek",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 193818242,
+                "language": "Swift",
+                "last_commit": "2020-07-22T21:26:24Z",
+                "owner": "johnsusek",
+                "repo": "FlowStack",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flux pattern for SwiftUI",
+              "description": "by johnsusek",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 191778616,
+                "language": "Swift",
+                "last_commit": "2019-12-23T17:45:43Z",
+                "owner": "johnsusek",
+                "repo": "fluxus",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI support for drag and drop on iOS",
+              "description": "by brunogb",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197177299,
+                "language": "Swift",
+                "last_commit": "2020-01-21T06:41:36Z",
+                "owner": "brunogb",
+                "repo": "SwiftUIDragDrop",
+                "stars": 40
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-04-21T13:08:20Z",
-            "owner": "lorenzofiamingo",
-            "repo": "swiftui-shared-object",
-            "stars": 70
-          }
+          "node_type": "group",
+          "title": "Helpers"
         },
         {
-          "node_type": "item",
-          "title": "SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI",
-          "description": "by maoyama",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-06-14T00:30:25Z",
-            "owner": "maoyama",
-            "repo": "SyntaxHighlight",
-            "stars": 42
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app",
+              "description": "by Sindre Sorhus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262082775,
+                "language": "Swift",
+                "last_commit": "2026-06-17T10:24:25Z",
+                "owner": "sindresorhus",
+                "repo": "KeyboardShortcuts",
+                "stars": 2698
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Defaults: replacement for UserDefaults",
+              "description": "by Sindre Sorhus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129132562,
+                "language": "Swift",
+                "last_commit": "2026-06-23T21:26:22Z",
+                "owner": "sindresorhus",
+                "repo": "Defaults",
+                "stars": 2489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QGrid: The missing SwiftUI collection view",
+              "description": "by Q-Mobile",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197633310,
+                "language": "Swift",
+                "last_commit": "2020-08-05T19:44:45Z",
+                "owner": "Q-Mobile",
+                "repo": "QGrid",
+                "stars": 1649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Walkthrough or onboarding flow with tap actions",
+              "description": "by Exyte",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207260073,
+                "language": "Swift",
+                "last_commit": "2026-07-08T08:22:38Z",
+                "owner": "exyte",
+                "repo": "ConcentricOnboarding",
+                "stars": 1567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Preferences: Create a macOS preferences window in SwiftUI",
+              "description": "by Sindre Sorhus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139150459,
+                "language": "Swift",
+                "last_commit": "2025-11-10T17:10:41Z",
+                "owner": "sindresorhus",
+                "repo": "Settings",
+                "stars": 1550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ASCollectionView: A SwiftUI collection view",
+              "description": "by Apptek Studios",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 213303498,
+                "language": "Swift",
+                "last_commit": "2022-11-03T23:29:52Z",
+                "owner": "apptekstudios",
+                "repo": "ASCollectionView",
+                "stars": 1378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS",
+              "description": "by Deniz Adalar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255439637,
+                "language": "Swift",
+                "last_commit": "2025-02-11T11:45:22Z",
+                "owner": "dadalar",
+                "repo": "SwiftUI-CardStackView",
+                "stars": 640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Render ring chart, sunburst chart and multilevel pie chart diagrams",
+              "description": "by lludo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191486149,
+                "language": "Swift",
+                "last_commit": "2026-02-09T07:09:16Z",
+                "owner": "lludo",
+                "repo": "SwiftSunburstDiagram",
+                "stars": 551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftSpeech: A speech recognition framework designed for SwiftUI",
+              "description": "by Cay Zhang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223111229,
+                "language": "Swift",
+                "last_commit": "2021-07-27T11:37:15Z",
+                "owner": "Cay-Zhang",
+                "repo": "SwiftSpeech",
+                "stars": 531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Async image loading",
+              "description": "by Callum Trounce",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190445162,
+                "language": "Swift",
+                "last_commit": "2023-07-06T21:28:25Z",
+                "owner": "cmtrounce",
+                "repo": "SwURL",
+                "stars": 200
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI",
+              "description": "by Huy Bui Dac",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290285066,
+                "language": "Swift",
+                "last_commit": "2020-09-04T02:39:40Z",
+                "owner": "huybuidac",
+                "repo": "SwiftUIFontIcon",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SharedObject: A new property wrapper for SwiftUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284071735,
+                "language": "Swift",
+                "last_commit": "2024-04-21T13:08:20Z",
+                "owner": "lorenzofiamingo",
+                "repo": "swiftui-shared-object",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI",
+              "description": "by maoyama",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296984462,
+                "language": "Swift",
+                "last_commit": "2025-06-14T00:30:25Z",
+                "owner": "maoyama",
+                "repo": "SyntaxHighlight",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clean Architecture for SwiftUI demo app",
+              "description": "by Alexey Naumov",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218088093,
+                "language": "Swift",
+                "last_commit": "2025-07-14T17:10:30Z",
+                "owner": "nalexn",
+                "repo": "clean-architecture-swiftui",
+                "stars": 6590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI & Combine app using MovieDB API",
+              "description": "by Dimillian (Thomas Ricouard)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190636955,
+                "language": "Swift",
+                "last_commit": "2024-01-17T15:31:08Z",
+                "owner": "Dimillian",
+                "repo": "MovieSwiftUI",
+                "stars": 6531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChartView made in SwiftUI",
+              "description": "by AppPear",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191625817,
+                "language": "Swift",
+                "last_commit": "2026-03-02T08:41:42Z",
+                "owner": "AppPear",
+                "repo": "ChartView",
+                "stars": 5637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.",
+              "description": "by ivanvorobei",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190211663,
+                "language": "Swift",
+                "last_commit": "2023-12-07T14:10:03Z",
+                "owner": "ivanvorobei",
+                "repo": "SwiftUI",
+                "stars": 5620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Animal Crossing New Horizons Companion App",
+              "description": "by Dimillian (Thomas Ricouard)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254130055,
+                "language": "Swift",
+                "last_commit": "2023-12-06T13:45:07Z",
+                "owner": "Dimillian",
+                "repo": "ACHNBrowserUI",
+                "stars": 1723
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Design+Code app that shows how you can use SwiftUI to create beautiful UI",
+              "description": "by mythxn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196378445,
+                "language": "Swift",
+                "last_commit": "2019-11-10T11:21:44Z",
+                "owner": "mythxn",
+                "repo": "designcode-swiftui",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API",
+              "description": "by kitasuke",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190473015,
+                "language": "Swift",
+                "last_commit": "2019-08-08T05:26:42Z",
+                "owner": "kitasuke",
+                "repo": "SwiftUI-MVVM",
+                "stars": 808
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A 2048 game writing with SwiftUI",
+              "description": "by unixzii",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190405495,
+                "language": "Swift",
+                "last_commit": "2020-07-17T18:13:28Z",
+                "owner": "unixzii",
+                "repo": "SwiftUI-2048",
+                "stars": 732
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "This is an example project of SwiftUI and Combine using GitHub API",
+              "description": "by ra1028",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190279986,
+                "language": "Swift",
+                "last_commit": "2019-10-13T11:42:55Z",
+                "owner": "ra1028",
+                "repo": "SwiftUI-Combine",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI MovieDB prototype app",
+              "description": "by alfianlosari",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190745134,
+                "language": "Swift",
+                "last_commit": "2020-03-06T22:57:11Z",
+                "owner": "alfianlosari",
+                "repo": "SwiftUI-MovieDB",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Carbode Barcode QRCode scanner",
+              "description": "by heart",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213380392,
+                "language": "Swift",
+                "last_commit": "2025-05-06T04:01:31Z",
+                "owner": "heart",
+                "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
+                "stars": 303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftUI and Combine based GitHubSearch example",
+              "description": "by marty-suzuki",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190229557,
+                "language": "Swift",
+                "last_commit": "2019-08-19T05:40:06Z",
+                "owner": "marty-suzuki",
+                "repo": "GitHubSearchWithSwiftUI",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An app that composes text over an image in SwiftUI",
+              "description": "by dempseyatgithub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191450705,
+                "language": "Swift",
+                "last_commit": "2019-06-12T20:17:13Z",
+                "owner": "dempseyatgithub",
+                "repo": "MemeMaker",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API",
+              "description": "by kitasuke",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192053003,
+                "language": "Swift",
+                "last_commit": "2019-08-06T09:48:07Z",
+                "owner": "kitasuke",
+                "repo": "SwiftUI-Flux",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Currency Converter App",
+              "description": "by alexliubj",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194028847,
+                "language": "Swift",
+                "last_commit": "2019-06-27T06:48:08Z",
+                "owner": "alexliubj",
+                "repo": "SwiftUI-Currency-Converter",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koober a ride-hailing app from Advanced iOS App Architecture book",
+              "description": "by raywenderlich",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191394938,
+                "language": "Swift",
+                "last_commit": "2019-09-08T00:42:14Z",
+                "owner": "kodecocodes",
+                "repo": "swiftui-example-app-koober",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mac app that shows pull request last modified each line of a file",
+              "description": "by maoyama",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228867281,
+                "language": "Swift",
+                "last_commit": "2024-09-21T03:52:53Z",
+                "owner": "maoyama",
+                "repo": "GitBlamePR",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask",
+              "description": "by niazoff",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193131841,
+                "language": "Swift",
+                "last_commit": "2019-06-21T16:49:06Z",
+                "owner": "niazoff",
+                "repo": "Chat",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hacker News reader built with SwiftUI and Combine",
+              "description": "by woxtu",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191030425,
+                "language": "Swift",
+                "last_commit": "2022-07-25T19:14:11Z",
+                "owner": "woxtu",
+                "repo": "SwiftUI-HackerNews",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A simple SwiftUI weather app using MVVM",
+              "description": "by niazoff",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192417823,
+                "language": "Swift",
+                "last_commit": "2019-06-17T21:07:56Z",
+                "owner": "niazoff",
+                "repo": "Weather",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopping List app showing how to use SwiftUI with Core Data",
+              "description": "by ericlewis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201332505,
+                "language": "Swift",
+                "last_commit": "2019-08-08T21:02:21Z",
+                "owner": "ericlewis",
+                "repo": "ShoppingList",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift UI Demo for an instagram copy",
+              "description": "by leavenstee",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190325029,
+                "language": "Swift",
+                "last_commit": "2019-06-06T22:50:49Z",
+                "owner": "leavenstee",
+                "repo": "InstaFake-Swift-UI",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Address Book project with Core Data",
+              "description": "by Harold Martin",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 232724679,
+                "language": "Swift",
+                "last_commit": "2020-01-12T16:47:06Z",
+                "owner": "hbmartin",
+                "repo": "Directory-SwiftUI",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A to-do list app using SwiftUI and combine with restful api",
+              "description": "by jamfly",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 190604328,
+                "language": "Swift",
+                "last_commit": "2019-06-06T16:52:26Z",
+                "owner": "freddy5566",
+                "repo": "SwiftUI-Combine-todo-example",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!",
+              "description": "by jhatin94",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192579800,
+                "language": "Swift",
+                "last_commit": "2020-01-16T21:57:31Z",
+                "owner": "jhatin94",
+                "repo": "tempatlas-swiftui",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture",
+              "description": "by PangMo5",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191310441,
+                "language": "Swift",
+                "last_commit": "2020-07-23T16:13:39Z",
+                "owner": "PangMo5",
+                "repo": "AniTime",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source Apps"
         }
       ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Clean Architecture for SwiftUI demo app",
-          "description": "by Alexey Naumov",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-07-14T17:10:30Z",
-            "owner": "nalexn",
-            "repo": "clean-architecture-swiftui",
-            "stars": 6590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI & Combine app using MovieDB API",
-          "description": "by Dimillian (Thomas Ricouard)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-01-17T15:31:08Z",
-            "owner": "Dimillian",
-            "repo": "MovieSwiftUI",
-            "stars": 6531
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChartView made in SwiftUI",
-          "description": "by AppPear",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-03-02T08:41:42Z",
-            "owner": "AppPear",
-            "repo": "ChartView",
-            "stars": 5637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.",
-          "description": "by ivanvorobei",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-12-07T14:10:03Z",
-            "owner": "ivanvorobei",
-            "repo": "SwiftUI",
-            "stars": 5620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Animal Crossing New Horizons Companion App",
-          "description": "by Dimillian (Thomas Ricouard)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-12-06T13:45:07Z",
-            "owner": "Dimillian",
-            "repo": "ACHNBrowserUI",
-            "stars": 1723
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Design+Code app that shows how you can use SwiftUI to create beautiful UI",
-          "description": "by mythxn",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-11-10T11:21:44Z",
-            "owner": "mythxn",
-            "repo": "designcode-swiftui",
-            "stars": 827
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API",
-          "description": "by kitasuke",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-08-08T05:26:42Z",
-            "owner": "kitasuke",
-            "repo": "SwiftUI-MVVM",
-            "stars": 808
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A 2048 game writing with SwiftUI",
-          "description": "by unixzii",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-07-17T18:13:28Z",
-            "owner": "unixzii",
-            "repo": "SwiftUI-2048",
-            "stars": 732
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "This is an example project of SwiftUI and Combine using GitHub API",
-          "description": "by ra1028",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-10-13T11:42:55Z",
-            "owner": "ra1028",
-            "repo": "SwiftUI-Combine",
-            "stars": 451
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI MovieDB prototype app",
-          "description": "by alfianlosari",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-03-06T22:57:11Z",
-            "owner": "alfianlosari",
-            "repo": "SwiftUI-MovieDB",
-            "stars": 315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Carbode Barcode QRCode scanner",
-          "description": "by heart",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-05-06T04:01:31Z",
-            "owner": "heart",
-            "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-            "stars": 303
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftUI and Combine based GitHubSearch example",
-          "description": "by marty-suzuki",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-08-19T05:40:06Z",
-            "owner": "marty-suzuki",
-            "repo": "GitHubSearchWithSwiftUI",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "An app that composes text over an image in SwiftUI",
-          "description": "by dempseyatgithub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-06-12T20:17:13Z",
-            "owner": "dempseyatgithub",
-            "repo": "MemeMaker",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API",
-          "description": "by kitasuke",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-08-06T09:48:07Z",
-            "owner": "kitasuke",
-            "repo": "SwiftUI-Flux",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Currency Converter App",
-          "description": "by alexliubj",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-06-27T06:48:08Z",
-            "owner": "alexliubj",
-            "repo": "SwiftUI-Currency-Converter",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Koober a ride-hailing app from Advanced iOS App Architecture book",
-          "description": "by raywenderlich",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-09-08T00:42:14Z",
-            "owner": "kodecocodes",
-            "repo": "swiftui-example-app-koober",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mac app that shows pull request last modified each line of a file",
-          "description": "by maoyama",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-09-21T03:52:53Z",
-            "owner": "maoyama",
-            "repo": "GitBlamePR",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask",
-          "description": "by niazoff",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-06-21T16:49:06Z",
-            "owner": "niazoff",
-            "repo": "Chat",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hacker News reader built with SwiftUI and Combine",
-          "description": "by woxtu",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-07-25T19:14:11Z",
-            "owner": "woxtu",
-            "repo": "SwiftUI-HackerNews",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A simple SwiftUI weather app using MVVM",
-          "description": "by niazoff",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-06-17T21:07:56Z",
-            "owner": "niazoff",
-            "repo": "Weather",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopping List app showing how to use SwiftUI with Core Data",
-          "description": "by ericlewis",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-08-08T21:02:21Z",
-            "owner": "ericlewis",
-            "repo": "ShoppingList",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift UI Demo for an instagram copy",
-          "description": "by leavenstee",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-06-06T22:50:49Z",
-            "owner": "leavenstee",
-            "repo": "InstaFake-Swift-UI",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Address Book project with Core Data",
-          "description": "by Harold Martin",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2020-01-12T16:47:06Z",
-            "owner": "hbmartin",
-            "repo": "Directory-SwiftUI",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A to-do list app using SwiftUI and combine with restful api",
-          "description": "by jamfly",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2019-06-06T16:52:26Z",
-            "owner": "freddy5566",
-            "repo": "SwiftUI-Combine-todo-example",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!",
-          "description": "by jhatin94",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-01-16T21:57:31Z",
-            "owner": "jhatin94",
-            "repo": "tempatlas-swiftui",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture",
-          "description": "by PangMo5",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-07-23T16:13:39Z",
-            "owner": "PangMo5",
-            "repo": "AniTime",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Imgur app with SwiftUI and Combine using MVVM",
-          "description": "by Nikita Razumnyi",
-          "children": []
-        }
-      ],
-      "title": "Open Source Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📖 Books"
+      "title": "🛠 Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:25:02.091Z",
+    "last_updated": "2026-08-19T12:55:34.245Z",
     "original_repository": "vlondon/awesome-swiftui",
+    "original_repository_id": 192011863,
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
     "enhanced_repository": "enhansome/enhansome-swiftui",
     "enhanced_repository_description": null,
