@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-17T10:24:25Z",
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2698
+                "stars": 2699
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-06-23T21:26:22Z",
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2489
+                "stars": 2491
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:24:44.679Z",
+    "last_updated": "2026-08-21T03:29:41.291Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_id": 192011863,
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
