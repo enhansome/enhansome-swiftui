@@ -391,7 +391,7 @@
                 "last_commit": "2025-07-14T17:10:30Z",
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6589
+                "stars": 6590
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:29:41.291Z",
+    "last_updated": "2026-08-22T03:21:36.440Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_id": 192011863,
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
