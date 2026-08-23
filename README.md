@@ -112,7 +112,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Unit Testing
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,628 | 🐛 62 | 🌐 Swift | 📅 2026-08-14 by Alexey Naumov
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,629 | 🐛 56 | 🌐 Swift | 📅 2026-08-22 by Alexey Naumov
 * [Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=awsui1) by Alexey Naumov
 
 ### Debug
@@ -235,9 +235,9 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Open Source Apps
 
-* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,590 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
+* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,589 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
 * [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,531 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
-* [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,637 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
+* [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,636 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,620 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) ⭐ 1,723 | 🐛 28 | 🌐 Swift | 📅 2023-12-06 by Dimillian (Thomas Ricouard)
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode-SwiftUI) ⭐ 827 | 🐛 0 | 🌐 Swift | 📅 2019-11-10 by mythxn
@@ -246,11 +246,11 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [This is an example project of SwiftUI and Combine using GitHub API](https://github.com/ra1028/SwiftUI-Combine) ⭐ 451 | 🐛 1 | 🌐 Swift | 📅 2019-10-13 by ra1028
 * [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) ⭐ 315 | 🐛 3 | 🌐 Swift | 📅 2020-03-06 by alfianlosari
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 303 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 by heart
-* [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) ⭐ 204 | 🐛 0 | 🌐 Swift | 📅 2019-08-19 by marty-suzuki
+* [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) ⭐ 205 | 🐛 0 | 🌐 Swift | 📅 2019-08-19 by marty-suzuki
 * [An app that composes text over an image in SwiftUI](https://github.com/dempseyatgithub/MemeMaker) ⭐ 101 | 🐛 0 | 🌐 Swift | 📅 2019-06-12 by dempseyatgithub
 * [Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-Flux) ⭐ 95 | 🐛 0 | 🌐 Swift | 📅 2019-08-06 by kitasuke
 * [Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter) ⭐ 68 | 🐛 2 | 🌐 Swift | 📅 2019-06-27 by alexliubj
-* [Koober a ride-hailing app from Advanced iOS App Architecture book](https://github.com/raywenderlich/swiftui-example-app-koober) ⭐ 61 | 🐛 1 | 🌐 Swift | 📅 2019-09-08 by raywenderlich
+* [Koober a ride-hailing app from Advanced iOS App Architecture book](https://github.com/raywenderlich/swiftui-example-app-koober) ⭐ 60 | 🐛 1 | 🌐 Swift | 📅 2019-09-08 by raywenderlich
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2024-09-21 by maoyama
 * [A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask](https://github.com/niazoff/Chat) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2019-06-21 by niazoff
 * [Hacker News reader built with SwiftUI and Combine](https://github.com/woxtu/SwiftUI-HackerNews) ⭐ 29 | 🐛 0 | 🌐 Swift | 📅 2022-07-25 by woxtu
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

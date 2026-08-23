@@ -391,7 +391,7 @@
                 "last_commit": "2025-07-14T17:10:30Z",
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6590
+                "stars": 6589
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-03-02T08:41:42Z",
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5637
+                "stars": 5636
               }
             },
             {
@@ -556,7 +556,7 @@
                 "last_commit": "2019-08-19T05:40:06Z",
                 "owner": "marty-suzuki",
                 "repo": "GitHubSearchWithSwiftUI",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2019-09-08T00:42:14Z",
                 "owner": "kodecocodes",
                 "repo": "swiftui-example-app-koober",
-                "stars": 61
+                "stars": 60
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:21:36.440Z",
+    "last_updated": "2026-08-23T03:29:16.206Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_id": 192011863,
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
