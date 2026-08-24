@@ -47,7 +47,7 @@
                 "last_commit": "2022-09-04T12:41:56Z",
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4460
+                "stars": 4461
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-17T10:24:25Z",
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2699
+                "stars": 2700
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-06-23T21:26:22Z",
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2491
+                "stars": 2493
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-03-02T08:41:42Z",
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5636
+                "stars": 5635
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2023-12-06T13:45:07Z",
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1723
+                "stars": 1722
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:29:16.206Z",
+    "last_updated": "2026-08-24T03:31:23.615Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_id": 192011863,
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
