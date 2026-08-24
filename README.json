@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-17T10:24:25Z",
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2700
+                "stars": 2701
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-07-08T08:22:38Z",
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1567
+                "stars": 1568
               }
             },
             {
@@ -381,6 +381,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Hover an async combine supported network library",
+              "description": "by Onur H. Cantay",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196369058,
+                "language": "Swift",
+                "last_commit": "2023-03-24T21:49:30Z",
+                "owner": "onurhuseyincantay",
+                "repo": "Hover",
+                "stars": 128
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Combine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Clean Architecture for SwiftUI demo app",
               "description": "by Alexey Naumov",
               "children": [],
@@ -391,7 +413,7 @@
                 "last_commit": "2025-07-14T17:10:30Z",
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6589
+                "stars": 6591
               }
             },
             {
@@ -779,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:31:23.615Z",
+    "last_updated": "2026-08-24T14:11:36.269Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_id": 192011863,
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
