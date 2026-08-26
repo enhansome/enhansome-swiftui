@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-17T16:47:54Z",
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5446
+                "stars": 5447
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-02-17T16:47:54Z",
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5446
+                "stars": 5447
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-06-23T21:26:22Z",
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2493
+                "stars": 2494
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2024-01-17T15:31:08Z",
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6531
+                "stars": 6530
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2023-12-07T14:10:03Z",
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5620
+                "stars": 5621
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2023-12-06T13:45:07Z",
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1722
+                "stars": 1721
               }
             },
             {
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:51.623Z",
+    "last_updated": "2026-08-26T03:32:51.592Z",
     "original_repository": "vlondon/awesome-swiftui",
     "original_repository_id": 192011863,
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
