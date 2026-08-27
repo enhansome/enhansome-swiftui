@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-17T16:47:54Z",
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5447
+                "stars": 5448
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-02-17T16:47:54Z",
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5447
+                "stars": 5448
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2022-09-04T12:41:56Z",
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4461
+                "stars": 4463
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-17T10:24:25Z",
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2700
+                "stars": 2701
               }
             },
             {
@@ -413,7 +413,7 @@
                 "last_commit": "2025-07-14T17:10:30Z",
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6591
+                "stars": 6592
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2023-12-07T14:10:03Z",
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5621
+                "stars": 5622
               }
             },
             {
@@ -801,9 +801,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:32:51.592Z",
-    "original_repository": "vlondon/awesome-swiftui",
-    "original_repository_id": 192011863,
+    "last_updated": "2026-08-27T12:07:21.530Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 192011863,
+      "language": null,
+      "last_commit": "2026-06-10T10:13:10Z",
+      "owner": "vlondon",
+      "repo": "awesome-swiftui",
+      "stars": 1967
+    },
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
     "enhanced_repository": "enhansome/enhansome-swiftui",
     "enhanced_repository_description": null,
