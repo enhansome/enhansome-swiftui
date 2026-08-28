@@ -18,7 +18,8 @@
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
                 "stars": 5448
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
                 "stars": 5448
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
                 "stars": 4463
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "dmytro-anokhin",
                 "repo": "url-image",
                 "stars": 1156
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "carson-katri",
                 "repo": "swift-request",
                 "stars": 740
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "pietropizzi",
                 "repo": "GridStack",
                 "stars": 659
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "MojtabaHs",
                 "repo": "iPhoneNumberField",
                 "stars": 583
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "a2",
                 "repo": "KeyboardAvoiding",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "johnsusek",
                 "repo": "FlowStack",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "johnsusek",
                 "repo": "fluxus",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "brunogb",
                 "repo": "SwiftUIDragDrop",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             }
           ],
           "description": null,
@@ -189,8 +200,9 @@
                 "last_commit": "2026-06-17T10:24:25Z",
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2701
-              }
+                "stars": 2702
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -204,8 +216,9 @@
                 "last_commit": "2026-06-23T21:26:22Z",
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2494
-              }
+                "stars": 2495
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "Q-Mobile",
                 "repo": "QGrid",
                 "stars": 1649
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -234,8 +248,9 @@
                 "last_commit": "2026-07-08T08:22:38Z",
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1568
-              }
+                "stars": 1567
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "sindresorhus",
                 "repo": "Settings",
                 "stars": 1550
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "apptekstudios",
                 "repo": "ASCollectionView",
                 "stars": 1378
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "dadalar",
                 "repo": "SwiftUI-CardStackView",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "lludo",
                 "repo": "SwiftSunburstDiagram",
                 "stars": 551
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "Cay-Zhang",
                 "repo": "SwiftSpeech",
                 "stars": 531
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "cmtrounce",
                 "repo": "SwURL",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "huybuidac",
                 "repo": "SwiftUIFontIcon",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "lorenzofiamingo",
                 "repo": "swiftui-shared-object",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "maoyama",
                 "repo": "SyntaxHighlight",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             }
           ],
           "description": null,
@@ -392,7 +416,8 @@
                 "owner": "onurhuseyincantay",
                 "repo": "Hover",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             }
           ],
           "description": null,
@@ -413,8 +438,9 @@
                 "last_commit": "2025-07-14T17:10:30Z",
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6592
-              }
+                "stars": 6593
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
                 "stars": 6530
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -443,8 +470,9 @@
                 "last_commit": "2026-03-02T08:41:42Z",
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5636
-              }
+                "stars": 5638
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -459,7 +487,8 @@
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
                 "stars": 5622
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
                 "stars": 1721
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "mythxn",
                 "repo": "designcode-swiftui",
                 "stars": 827
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "kitasuke",
                 "repo": "SwiftUI-MVVM",
                 "stars": 808
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -519,7 +551,8 @@
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
                 "stars": 732
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -534,7 +567,8 @@
                 "owner": "ra1028",
                 "repo": "SwiftUI-Combine",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -549,7 +583,8 @@
                 "owner": "alfianlosari",
                 "repo": "SwiftUI-MovieDB",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -564,7 +599,8 @@
                 "owner": "heart",
                 "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
                 "stars": 303
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -579,7 +615,8 @@
                 "owner": "marty-suzuki",
                 "repo": "GitHubSearchWithSwiftUI",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -594,7 +631,8 @@
                 "owner": "dempseyatgithub",
                 "repo": "MemeMaker",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -609,7 +647,8 @@
                 "owner": "kitasuke",
                 "repo": "SwiftUI-Flux",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -624,7 +663,8 @@
                 "owner": "alexliubj",
                 "repo": "SwiftUI-Currency-Converter",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -639,7 +679,8 @@
                 "owner": "kodecocodes",
                 "repo": "swiftui-example-app-koober",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -654,7 +695,8 @@
                 "owner": "maoyama",
                 "repo": "GitBlamePR",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -669,7 +711,8 @@
                 "owner": "niazoff",
                 "repo": "Chat",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -684,7 +727,8 @@
                 "owner": "woxtu",
                 "repo": "SwiftUI-HackerNews",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -699,7 +743,8 @@
                 "owner": "niazoff",
                 "repo": "Weather",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -714,7 +759,8 @@
                 "owner": "ericlewis",
                 "repo": "ShoppingList",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -729,7 +775,8 @@
                 "owner": "leavenstee",
                 "repo": "InstaFake-Swift-UI",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -744,7 +791,8 @@
                 "owner": "hbmartin",
                 "repo": "Directory-SwiftUI",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -759,7 +807,8 @@
                 "owner": "freddy5566",
                 "repo": "SwiftUI-Combine-todo-example",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -774,7 +823,8 @@
                 "owner": "jhatin94",
                 "repo": "tempatlas-swiftui",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             },
             {
               "node_type": "item",
@@ -789,7 +839,8 @@
                 "owner": "PangMo5",
                 "repo": "AniTime",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
             }
           ],
           "description": null,
@@ -801,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:59:01.498Z",
+    "last_updated": "2026-08-28T14:30:21.476Z",
     "original_repository_info": {
       "archived": false,
       "id": 192011863,
@@ -809,7 +860,7 @@
       "last_commit": "2026-06-10T10:13:10Z",
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1967
+      "stars": 1968
     },
     "original_repository_sha": "06f89b6254773c9c51583778b41a71eda3800bbb",
     "enhanced_repository": "enhansome/enhansome-swiftui",
