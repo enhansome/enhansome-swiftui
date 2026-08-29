@@ -199,9 +199,9 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Helpers
 
-* [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,448 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
-* [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,448 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
-* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,463 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
+* [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,447 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
+* [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,447 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
+* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,464 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) ⚠️ Archived by Dmytro Anokhin
 * [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) ⭐ 740 | 🐛 9 | 🌐 Swift | 📅 2022-07-26 by carson-katri
 * [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) ⭐ 659 | 🐛 4 | 🌐 Swift | 📅 2022-02-21 by pietropizzi
@@ -235,10 +235,10 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Open Source Apps
 
-* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,593 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
+* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,592 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
 * [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,530 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
 * [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,638 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
-* [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,622 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
+* [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,621 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) ⭐ 1,721 | 🐛 28 | 🌐 Swift | 📅 2023-12-06 by Dimillian (Thomas Ricouard)
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode-SwiftUI) ⭐ 827 | 🐛 0 | 🌐 Swift | 📅 2019-11-10 by mythxn
 * [Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-MVVM) ⭐ 808 | 🐛 1 | 🌐 Swift | 📅 2019-08-08 by kitasuke
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
