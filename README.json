@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5448,
+                "stars": 5449,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5448,
+                "stars": 5449,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4464,
+                "stars": 4466,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -186,7 +186,7 @@
                 "open_issues": 6,
                 "owner": "MojtabaHs",
                 "repo": "iPhoneNumberField",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -396,7 +396,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1567,
+                "stars": 1568,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -545,7 +545,7 @@
                 "open_issues": 7,
                 "owner": "Cay-Zhang",
                 "repo": "SwiftSpeech",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "audio",
                   "combine",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5622,
+                "stars": 5623,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:16:58.877Z",
+    "last_updated": "2026-08-30T08:28:25.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1395,7 +1395,7 @@
       "open_issues": 19,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1968,
+      "stars": 1969,
       "topics": [
         "combine",
         "guide",
