@@ -157,7 +157,7 @@
                 "open_issues": 4,
                 "owner": "pietropizzi",
                 "repo": "GridStack",
-                "stars": 659,
+                "stars": 660,
                 "topics": [
                   "grid",
                   "ios",
@@ -305,7 +305,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2703,
+                "stars": 2701,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2496,
+                "stars": 2495,
                 "topics": [
                   "ios",
                   "macos",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6593,
+                "stars": 6594,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5623,
+                "stars": 5624,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1720,
+                "stars": 1719,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -917,7 +917,7 @@
                 "open_issues": 2,
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
-                "stars": 732,
+                "stars": 731,
                 "topics": [
                   "demo",
                   "ios",
@@ -1096,7 +1096,7 @@
                 "language": "Swift",
                 "license": null,
                 "last_commit": "2019-06-27T06:48:08Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "alexliubj",
                 "repo": "SwiftUI-Currency-Converter",
                 "stars": 68,
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:49:07.859Z",
+    "last_updated": "2026-09-01T07:56:06.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
