@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5449,
+                "stars": 5448,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5449,
+                "stars": 5448,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -784,7 +784,7 @@
                 "open_issues": 96,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5640,
+                "stars": 5641,
                 "topics": [
                   "chart",
                   "charts",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5624,
+                "stars": 5625,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:56:06.746Z",
+    "last_updated": "2026-09-02T07:15:26.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
