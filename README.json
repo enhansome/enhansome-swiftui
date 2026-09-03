@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4466,
+                "stars": 4467,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -305,7 +305,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2701,
+                "stars": 2702,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -333,7 +333,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-06-23T21:26:22Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
                 "stars": 2495,
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6594,
+                "stars": 6596,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -784,7 +784,7 @@
                 "open_issues": 96,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5641,
+                "stars": 5642,
                 "topics": [
                   "chart",
                   "charts",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5625,
+                "stars": 5626,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -871,7 +871,7 @@
                 "open_issues": 0,
                 "owner": "mythxn",
                 "repo": "designcode-swiftui",
-                "stars": 827,
+                "stars": 828,
                 "topics": [
                   "swift",
                   "swiftui",
@@ -1096,7 +1096,7 @@
                 "language": "Swift",
                 "license": null,
                 "last_commit": "2019-06-27T06:48:08Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "alexliubj",
                 "repo": "SwiftUI-Currency-Converter",
                 "stars": 68,
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:15:26.424Z",
+    "last_updated": "2026-09-03T07:18:57.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
