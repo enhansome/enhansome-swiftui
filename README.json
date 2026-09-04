@@ -305,7 +305,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2702,
+                "stars": 2704,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -333,10 +333,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-06-23T21:26:22Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2495,
+                "stars": 2496,
                 "topics": [
                   "ios",
                   "macos",
@@ -396,7 +396,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1568,
+                "stars": 1569,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1551,
+                "stars": 1552,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -457,7 +457,7 @@
                 "open_issues": 34,
                 "owner": "apptekstudios",
                 "repo": "ASCollectionView",
-                "stars": 1378,
+                "stars": 1379,
                 "topics": [
                   "collection-view",
                   "collectionview",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6529,
+                "stars": 6530,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -784,7 +784,7 @@
                 "open_issues": 96,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5642,
+                "stars": 5643,
                 "topics": [
                   "chart",
                   "charts",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5626,
+                "stars": 5627,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:18:57.619Z",
+    "last_updated": "2026-09-04T07:21:40.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
