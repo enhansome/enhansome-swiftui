@@ -102,7 +102,7 @@
                 "open_issues": 15,
                 "owner": "dmytro-anokhin",
                 "repo": "url-image",
-                "stars": 1156,
+                "stars": 1155,
                 "topics": [
                   "ios",
                   "macos",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6596,
+                "stars": 6597,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5627,
+                "stars": 5626,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -1320,7 +1320,7 @@
                 "open_issues": 0,
                 "owner": "freddy5566",
                 "repo": "SwiftUI-Combine-todo-example",
-                "stars": 15,
+                "stars": 14,
                 "topics": [
                   "combine",
                   "swift5",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:21:40.889Z",
+    "last_updated": "2026-09-05T07:03:20.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1395,7 +1395,7 @@
       "open_issues": 19,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1969,
+      "stars": 1968,
       "topics": [
         "combine",
         "guide",
