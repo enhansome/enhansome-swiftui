@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4467,
+                "stars": 4466,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -367,7 +367,7 @@
                 "open_issues": 18,
                 "owner": "Q-Mobile",
                 "repo": "QGrid",
-                "stars": 1649,
+                "stars": 1648,
                 "topics": [
                   "declarative-ui",
                   "grid",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6597,
+                "stars": 6598,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6530,
+                "stars": 6529,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -784,7 +784,7 @@
                 "open_issues": 96,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5643,
+                "stars": 5642,
                 "topics": [
                   "chart",
                   "charts",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:03:20.967Z",
+    "last_updated": "2026-09-06T07:14:36.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1395,7 +1395,7 @@
       "open_issues": 19,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1968,
+      "stars": 1969,
       "topics": [
         "combine",
         "guide",
