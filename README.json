@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5448,
+                "stars": 5449,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5448,
+                "stars": 5449,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6529,
+                "stars": 6531,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5626,
+                "stars": 5627,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1720,
+                "stars": 1722,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -1240,6 +1240,30 @@
             },
             {
               "node_type": "item",
+              "title": "Swift UI Demo for an instagram copy",
+              "description": "by leavenstee",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Swift UI Demo for an instagram copy ",
+                "homepage": null,
+                "id": 190325029,
+                "language": "Swift",
+                "license": null,
+                "last_commit": "2019-06-06T22:50:49Z",
+                "open_issues": 0,
+                "owner": "leavenstee",
+                "repo": "InstaFake-Swift-UI",
+                "stars": 17,
+                "topics": [
+                  "swift5",
+                  "swiftui"
+                ]
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
+            },
+            {
+              "node_type": "item",
               "title": "Shopping List app showing how to use SwiftUI with Core Data",
               "description": "by ericlewis",
               "children": [],
@@ -1256,30 +1280,6 @@
                 "repo": "ShoppingList",
                 "stars": 17,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T14:30:21.476Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Swift UI Demo for an instagram copy",
-              "description": "by leavenstee",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Swift UI Demo for an instagram copy ",
-                "homepage": null,
-                "id": 190325029,
-                "language": "Swift",
-                "license": null,
-                "last_commit": "2019-06-06T22:50:49Z",
-                "open_issues": 0,
-                "owner": "leavenstee",
-                "repo": "InstaFake-Swift-UI",
-                "stars": 16,
-                "topics": [
-                  "swift5",
-                  "swiftui"
-                ]
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
             },
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:14:36.783Z",
+    "last_updated": "2026-09-07T07:28:23.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
