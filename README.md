@@ -199,8 +199,8 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Helpers
 
-* [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,449 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
-* [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,449 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
+* [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,448 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
+* [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,448 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
 * [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,466 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) ⚠️ Archived by Dmytro Anokhin
 * [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) ⭐ 740 | 🐛 9 | 🌐 Swift | 📅 2022-07-26 by carson-katri
@@ -215,7 +215,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Libraries
 
-* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,704 | 🐛 2 | 🌐 Swift | 📅 2026-06-17 by Sindre Sorhus
+* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,705 | 🐛 2 | 🌐 Swift | 📅 2026-06-17 by Sindre Sorhus
 * [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,496 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,648 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,569 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
@@ -235,7 +235,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Open Source Apps
 
-* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,598 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
+* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,599 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
 * [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,531 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
 * [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,642 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,627 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
