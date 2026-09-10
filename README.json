@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5626,
+                "stars": 5627,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:30:40.414Z",
+    "last_updated": "2026-09-10T07:26:38.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
