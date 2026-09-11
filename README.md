@@ -112,7 +112,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Unit Testing
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,628 | 🐛 59 | 🌐 Swift | 📅 2026-08-22 by Alexey Naumov
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,628 | 🐛 60 | 🌐 Swift | 📅 2026-08-22 by Alexey Naumov
 * [Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=awsui1) by Alexey Naumov
 
 ### Debug
@@ -216,7 +216,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 ### Libraries
 
 * [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,706 | 🐛 3 | 🌐 Swift | 📅 2026-06-17 by Sindre Sorhus
-* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,496 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
+* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,497 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,648 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,568 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
 * [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,552 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
@@ -235,10 +235,10 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Open Source Apps
 
-* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,598 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
+* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,599 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
 * [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,530 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
 * [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,643 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
-* [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,627 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
+* [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,626 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) ⭐ 1,722 | 🐛 28 | 🌐 Swift | 📅 2023-12-06 by Dimillian (Thomas Ricouard)
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode-SwiftUI) ⭐ 828 | 🐛 0 | 🌐 Swift | 📅 2019-11-10 by mythxn
 * [Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-MVVM) ⭐ 808 | 🐛 1 | 🌐 Swift | 📅 2019-08-08 by kitasuke
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
