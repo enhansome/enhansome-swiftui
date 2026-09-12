@@ -301,8 +301,8 @@
                 "id": 262082775,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-06-17T10:24:25Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-11T23:40:22Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
                 "stars": 2706,
@@ -514,7 +514,7 @@
                 "open_issues": 11,
                 "owner": "lludo",
                 "repo": "SwiftSunburstDiagram",
-                "stars": 551,
+                "stars": 550,
                 "topics": [
                   "chart",
                   "diagram",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6599,
+                "stars": 6600,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -896,7 +896,7 @@
                 "open_issues": 1,
                 "owner": "kitasuke",
                 "repo": "SwiftUI-MVVM",
-                "stars": 808,
+                "stars": 809,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:25:05.968Z",
+    "last_updated": "2026-09-12T07:17:20.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
