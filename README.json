@@ -102,7 +102,7 @@
                 "open_issues": 15,
                 "owner": "dmytro-anokhin",
                 "repo": "url-image",
-                "stars": 1156,
+                "stars": 1155,
                 "topics": [
                   "ios",
                   "macos",
@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2706,
+                "stars": 2705,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2497,
+                "stars": 2496,
                 "topics": [
                   "ios",
                   "macos",
@@ -1001,7 +1001,7 @@
                 "open_issues": 17,
                 "owner": "heart",
                 "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-                "stars": 302,
+                "stars": 301,
                 "topics": [
                   "barcode-generator",
                   "barcode-scanner",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:17:20.647Z",
+    "last_updated": "2026-09-13T07:35:34.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,7 +1392,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 19,
+      "open_issues": 18,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
       "stars": 1968,
