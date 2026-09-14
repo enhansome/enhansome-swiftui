@@ -186,7 +186,7 @@
                 "open_issues": 6,
                 "owner": "MojtabaHs",
                 "repo": "iPhoneNumberField",
-                "stars": 583,
+                "stars": 582,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1552,
+                "stars": 1551,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -514,7 +514,7 @@
                 "open_issues": 11,
                 "owner": "lludo",
                 "repo": "SwiftSunburstDiagram",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "chart",
                   "diagram",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6600,
+                "stars": 6602,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -784,7 +784,7 @@
                 "open_issues": 96,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5643,
+                "stars": 5644,
                 "topics": [
                   "chart",
                   "charts",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:35:34.277Z",
+    "last_updated": "2026-09-14T08:02:32.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
