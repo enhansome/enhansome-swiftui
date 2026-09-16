@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2706,
+                "stars": 2705,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1551,
+                "stars": 1552,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6602,
+                "stars": 6603,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6530,
+                "stars": 6531,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:57:19.746Z",
+    "last_updated": "2026-09-16T07:50:09.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
