@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4466,
+                "stars": 4465,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -157,7 +157,7 @@
                 "open_issues": 4,
                 "owner": "pietropizzi",
                 "repo": "GridStack",
-                "stars": 660,
+                "stars": 659,
                 "topics": [
                   "grid",
                   "ios",
@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2705,
+                "stars": 2706,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2496,
+                "stars": 2497,
                 "topics": [
                   "ios",
                   "macos",
@@ -545,7 +545,7 @@
                 "open_issues": 7,
                 "owner": "Cay-Zhang",
                 "repo": "SwiftSpeech",
-                "stars": 532,
+                "stars": 531,
                 "topics": [
                   "audio",
                   "combine",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6603,
+                "stars": 6604,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5626,
+                "stars": 5625,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1722,
+                "stars": 1723,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -1001,7 +1001,7 @@
                 "open_issues": 17,
                 "owner": "heart",
                 "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-                "stars": 301,
+                "stars": 300,
                 "topics": [
                   "barcode-generator",
                   "barcode-scanner",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:50:09.789Z",
+    "last_updated": "2026-09-17T07:55:04.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
