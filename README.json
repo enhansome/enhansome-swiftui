@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4465,
+                "stars": 4464,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -102,7 +102,7 @@
                 "open_issues": 15,
                 "owner": "dmytro-anokhin",
                 "repo": "url-image",
-                "stars": 1155,
+                "stars": 1154,
                 "topics": [
                   "ios",
                   "macos",
@@ -157,7 +157,7 @@
                 "open_issues": 4,
                 "owner": "pietropizzi",
                 "repo": "GridStack",
-                "stars": 659,
+                "stars": 658,
                 "topics": [
                   "grid",
                   "ios",
@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2707,
+                "stars": 2708,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2498,
+                "stars": 2497,
                 "topics": [
                   "ios",
                   "macos",
@@ -367,7 +367,7 @@
                 "open_issues": 18,
                 "owner": "Q-Mobile",
                 "repo": "QGrid",
-                "stars": 1648,
+                "stars": 1647,
                 "topics": [
                   "declarative-ui",
                   "grid",
@@ -457,7 +457,7 @@
                 "open_issues": 34,
                 "owner": "apptekstudios",
                 "repo": "ASCollectionView",
-                "stars": 1379,
+                "stars": 1378,
                 "topics": [
                   "collection-view",
                   "collectionview",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6603,
+                "stars": 6602,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6530,
+                "stars": 6529,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:32:56.703Z",
+    "last_updated": "2026-09-19T07:28:31.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,7 +1392,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
       "stars": 1968,
