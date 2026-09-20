@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5447,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5447,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2497,
+                "stars": 2498,
                 "topics": [
                   "ios",
                   "macos",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6602,
+                "stars": 6604,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -896,7 +896,7 @@
                 "open_issues": 1,
                 "owner": "kitasuke",
                 "repo": "SwiftUI-MVVM",
-                "stars": 809,
+                "stars": 810,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:28:31.904Z",
+    "last_updated": "2026-09-20T07:52:01.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,7 +1392,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
       "stars": 1968,
