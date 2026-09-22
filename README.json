@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5447,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5447,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1552,
+                "stars": 1551,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6605,
+                "stars": 6604,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:07:36.791Z",
+    "last_updated": "2026-09-22T07:52:32.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1395,7 +1395,7 @@
       "open_issues": 20,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1968,
+      "stars": 1967,
       "topics": [
         "combine",
         "guide",
