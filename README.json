@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2710,
+                "stars": 2711,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:52:32.708Z",
+    "last_updated": "2026-09-23T07:54:03.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",

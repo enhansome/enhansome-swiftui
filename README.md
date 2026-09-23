@@ -215,7 +215,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Libraries
 
-* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,710 | 🐛 1 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
+* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,711 | 🐛 1 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
 * [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,499 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,647 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
