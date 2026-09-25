@@ -112,7 +112,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Unit Testing
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,634 | 🐛 44 | 🌐 Swift | 📅 2026-09-20 by Alexey Naumov
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,635 | 🐛 44 | 🌐 Swift | 📅 2026-09-20 by Alexey Naumov
 * [Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=awsui1) by Alexey Naumov
 
 ### Debug
@@ -199,8 +199,8 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Helpers
 
-* [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,445 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
-* [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,445 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
+* [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,444 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
+* [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,444 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
 * [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,464 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) ⚠️ Archived by Dmytro Anokhin
 * [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) ⭐ 740 | 🐛 9 | 🌐 Swift | 📅 2022-07-26 by carson-katri
@@ -215,8 +215,8 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Libraries
 
-* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,712 | 🐛 1 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
-* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,500 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
+* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,713 | 🐛 1 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
+* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,501 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,647 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
 * [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,552 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
@@ -244,7 +244,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-MVVM) ⭐ 810 | 🐛 1 | 🌐 Swift | 📅 2019-08-08 by kitasuke
 * [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048) ⭐ 731 | 🐛 2 | 🌐 Swift | 📅 2020-07-17 by unixzii
 * [This is an example project of SwiftUI and Combine using GitHub API](https://github.com/ra1028/SwiftUI-Combine) ⭐ 451 | 🐛 1 | 🌐 Swift | 📅 2019-10-13 by ra1028
-* [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) ⭐ 315 | 🐛 3 | 🌐 Swift | 📅 2020-03-06 by alfianlosari
+* [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) ⭐ 316 | 🐛 3 | 🌐 Swift | 📅 2020-03-06 by alfianlosari
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 301 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 by heart
 * [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) ⭐ 205 | 🐛 0 | 🌐 Swift | 📅 2019-08-19 by marty-suzuki
 * [An app that composes text over an image in SwiftUI](https://github.com/dempseyatgithub/MemeMaker) ⭐ 101 | 🐛 0 | 🌐 Swift | 📅 2019-06-12 by dempseyatgithub
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
