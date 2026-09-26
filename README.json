@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4464,
+                "stars": 4463,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -487,7 +487,7 @@
                 "open_issues": 9,
                 "owner": "dadalar",
                 "repo": "SwiftUI-CardStackView",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "swift",
                   "swift-framework",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6604,
+                "stars": 6605,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:04:46.309Z",
+    "last_updated": "2026-09-26T07:55:55.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,7 +1392,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
       "stars": 1967,

@@ -201,7 +201,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 * [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,444 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
 * [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,444 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
-* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,464 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
+* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,463 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) ⚠️ Archived by Dmytro Anokhin
 * [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) ⭐ 740 | 🐛 9 | 🌐 Swift | 📅 2022-07-26 by carson-katri
 * [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) ⭐ 658 | 🐛 4 | 🌐 Swift | 📅 2022-02-21 by pietropizzi
@@ -221,7 +221,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
 * [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,552 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) ⚠️ Archived by Apptek Studios
-* [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 640 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 by Deniz Adalar
+* [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 641 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 by Deniz Adalar
 * [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) ⭐ 551 | 🐛 11 | 🌐 Swift | 📅 2026-02-09 by lludo
 * [SwiftSpeech: A speech recognition framework designed for SwiftUI](https://github.com/Cay-Zhang/SwiftSpeech) ⭐ 531 | 🐛 7 | 🌐 Swift | 📅 2021-07-27 by Cay Zhang
 * [Async image loading](https://github.com/cmtrounce/SwURL) ⭐ 200 | 🐛 1 | 🌐 Swift | 📅 2023-07-06 by Callum Trounce
@@ -235,7 +235,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Open Source Apps
 
-* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,604 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
+* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,605 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
 * [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,529 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
 * [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,644 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,628 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
