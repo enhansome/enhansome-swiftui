@@ -18,7 +18,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2024-02-17T16:47:54Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
                 "stars": 5444,
@@ -45,7 +45,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2024-02-17T16:47:54Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
                 "stars": 5444,
@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4463,
+                "stars": 4464,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2713,
+                "stars": 2715,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:55:55.733Z",
+    "last_updated": "2026-09-27T08:27:26.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
