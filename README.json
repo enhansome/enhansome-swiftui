@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4464,
+                "stars": 4463,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2715,
+                "stars": 2717,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -367,7 +367,7 @@
                 "open_issues": 18,
                 "owner": "Q-Mobile",
                 "repo": "QGrid",
-                "stars": 1645,
+                "stars": 1644,
                 "topics": [
                   "declarative-ui",
                   "grid",
@@ -618,7 +618,7 @@
             {
               "node_type": "item",
               "title": "SharedObject: A new property wrapper for SwiftUI",
-              "description": null,
+              "description": "lorenzofiamingo/swiftui-shared-object",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5626,
+                "stars": 5627,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1722,
+                "stars": 1723,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:49:39.686Z",
+    "last_updated": "2026-10-03T05:11:12.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
