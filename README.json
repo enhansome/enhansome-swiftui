@@ -230,7 +230,7 @@
                 "open_issues": 4,
                 "owner": "johnsusek",
                 "repo": "FlowStack",
-                "stars": 152,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2717,
+                "stars": 2718,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -457,7 +457,7 @@
                 "open_issues": 34,
                 "owner": "apptekstudios",
                 "repo": "ASCollectionView",
-                "stars": 1378,
+                "stars": 1377,
                 "topics": [
                   "collection-view",
                   "collectionview",
@@ -487,7 +487,7 @@
                 "open_issues": 9,
                 "owner": "dadalar",
                 "repo": "SwiftUI-CardStackView",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "swift",
                   "swift-framework",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1723,
+                "stars": 1724,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T09:28:22.346Z",
+    "last_updated": "2026-10-06T09:13:27.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
