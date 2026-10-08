@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2503,
+                "stars": 2502,
                 "topics": [
                   "ios",
                   "macos",
@@ -396,7 +396,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1566,
+                "stars": 1567,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6606,
+                "stars": 6608,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T09:04:04.314Z",
+    "last_updated": "2026-10-08T09:19:21.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",

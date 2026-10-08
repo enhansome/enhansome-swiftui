@@ -216,9 +216,9 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 ### Libraries
 
 * [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,719 | 🐛 1 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
-* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,503 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
+* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,502 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,644 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
-* [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,566 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
+* [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
 * [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,552 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) ⚠️ Archived by Apptek Studios
 * [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 643 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 by Deniz Adalar
@@ -235,7 +235,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Open Source Apps
 
-* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,606 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
+* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,608 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
 * [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,527 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
 * [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,645 | 🐛 95 | 🌐 Swift | 📅 2026-03-02 by AppPear
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,625 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
