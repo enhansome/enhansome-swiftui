@@ -305,7 +305,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2718,
+                "stars": 2720,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2503,
+                "stars": 2505,
                 "topics": [
                   "ios",
                   "macos",
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1552,
+                "stars": 1553,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5624,
+                "stars": 5622,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -896,7 +896,7 @@
                 "open_issues": 1,
                 "owner": "kitasuke",
                 "repo": "SwiftUI-MVVM",
-                "stars": 810,
+                "stars": 809,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -917,7 +917,7 @@
                 "open_issues": 2,
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
-                "stars": 732,
+                "stars": 733,
                 "topics": [
                   "demo",
                   "ios",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:48:11.635Z",
+    "last_updated": "2026-10-11T09:09:53.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
