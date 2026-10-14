@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5443,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5443,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2505,
+                "stars": 2506,
                 "topics": [
                   "ios",
                   "macos",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6525,
+                "stars": 6527,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -784,7 +784,7 @@
                 "open_issues": 95,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5650,
+                "stars": 5648,
                 "topics": [
                   "chart",
                   "charts",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1724,
+                "stars": 1725,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -917,7 +917,7 @@
                 "open_issues": 2,
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
-                "stars": 732,
+                "stars": 733,
                 "topics": [
                   "demo",
                   "ios",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:39:04.857Z",
+    "last_updated": "2026-10-14T07:53:58.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
