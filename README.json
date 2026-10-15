@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5445,
+                "stars": 5444,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5445,
+                "stars": 5444,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -302,7 +302,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-11T23:40:22Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
                 "stars": 2724,
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6609,
+                "stars": 6607,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5623,
+                "stars": 5625,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T07:53:58.289Z",
+    "last_updated": "2026-10-15T07:38:56.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
