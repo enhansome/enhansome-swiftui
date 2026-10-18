@@ -201,7 +201,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 * [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,444 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
 * [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,444 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
-* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,464 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
+* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,465 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) ⚠️ Archived by Dmytro Anokhin
 * [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) ⭐ 740 | 🐛 9 | 🌐 Swift | 📅 2022-07-26 by carson-katri
 * [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) ⭐ 658 | 🐛 4 | 🌐 Swift | 📅 2022-02-21 by pietropizzi
@@ -215,11 +215,11 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Libraries
 
-* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,725 | 🐛 2 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
+* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,724 | 🐛 2 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
 * [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,507 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,645 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
-* [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,554 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
+* [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,555 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) ⚠️ Archived by Apptek Studios
 * [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 643 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 by Deniz Adalar
 * [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) ⭐ 551 | 🐛 11 | 🌐 Swift | 📅 2026-10-12 by lludo
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
