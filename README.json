@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5444,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5444,
+                "stars": 5445,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -102,7 +102,7 @@
                 "open_issues": 15,
                 "owner": "dmytro-anokhin",
                 "repo": "url-image",
-                "stars": 1153,
+                "stars": 1154,
                 "topics": [
                   "ios",
                   "macos",
@@ -305,7 +305,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2724,
+                "stars": 2725,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2505,
+                "stars": 2506,
                 "topics": [
                   "ios",
                   "macos",
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1555,
+                "stars": 1556,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -545,7 +545,7 @@
                 "open_issues": 7,
                 "owner": "Cay-Zhang",
                 "repo": "SwiftSpeech",
-                "stars": 530,
+                "stars": 529,
                 "topics": [
                   "audio",
                   "combine",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6526,
+                "stars": 6527,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -784,7 +784,7 @@
                 "open_issues": 95,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5646,
+                "stars": 5647,
                 "topics": [
                   "chart",
                   "charts",
@@ -914,10 +914,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2020-07-17T18:13:28Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "demo",
                   "ios",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:50:13.995Z",
+    "last_updated": "2026-10-21T07:54:09.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
