@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4466,
+                "stars": 4467,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5626,
+                "stars": 5627,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:31:11.742Z",
+    "last_updated": "2026-10-25T07:44:33.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
