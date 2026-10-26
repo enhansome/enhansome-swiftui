@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5444,
+                "stars": 5446,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5444,
+                "stars": 5446,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -305,7 +305,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2725,
+                "stars": 2724,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -784,7 +784,7 @@
                 "open_issues": 95,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5648,
+                "stars": 5649,
                 "topics": [
                   "chart",
                   "charts",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5627,
+                "stars": 5628,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -1306,6 +1306,27 @@
             },
             {
               "node_type": "item",
+              "title": "A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!",
+              "description": "by jhatin94",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Apple Maps combined with the OpenWeather API written in SwiftUI",
+                "homepage": null,
+                "id": 192579800,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2020-01-16T21:57:31Z",
+                "open_issues": 0,
+                "owner": "jhatin94",
+                "repo": "tempatlas-swiftui",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:30:21.476Z"
+            },
+            {
+              "node_type": "item",
               "title": "A to-do list app using SwiftUI and combine with restful api",
               "description": "by jamfly",
               "children": [],
@@ -1328,27 +1349,6 @@
                   "swiftuiexa",
                   "wwdc2019"
                 ]
-              },
-              "first_seen": "2026-08-28T14:30:21.476Z"
-            },
-            {
-              "node_type": "item",
-              "title": "A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!",
-              "description": "by jhatin94",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Apple Maps combined with the OpenWeather API written in SwiftUI",
-                "homepage": null,
-                "id": 192579800,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2020-01-16T21:57:31Z",
-                "open_issues": 0,
-                "owner": "jhatin94",
-                "repo": "tempatlas-swiftui",
-                "stars": 14,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
             },
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:44:33.114Z",
+    "last_updated": "2026-10-26T08:00:47.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,7 +1392,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 25,
+      "open_issues": 28,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
       "stars": 1962,
