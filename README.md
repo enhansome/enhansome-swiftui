@@ -112,7 +112,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Unit Testing
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,638 | 🐛 47 | 🌐 Swift | 📅 2026-10-15 by Alexey Naumov
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,638 | 🐛 48 | 🌐 Swift | 📅 2026-10-15 by Alexey Naumov
 * [Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=awsui1) by Alexey Naumov
 
 ### Debug
@@ -219,7 +219,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,506 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,645 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 by Exyte
-* [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,556 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
+* [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,557 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) ⚠️ Archived by Apptek Studios
 * [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 642 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 by Deniz Adalar
 * [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) ⭐ 551 | 🐛 11 | 🌐 Swift | 📅 2026-10-12 by lludo
@@ -245,7 +245,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048) ⭐ 734 | 🐛 3 | 🌐 Swift | 📅 2020-07-17 by unixzii
 * [This is an example project of SwiftUI and Combine using GitHub API](https://github.com/ra1028/SwiftUI-Combine) ⭐ 451 | 🐛 1 | 🌐 Swift | 📅 2019-10-13 by ra1028
 * [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) ⭐ 315 | 🐛 3 | 🌐 Swift | 📅 2020-03-06 by alfianlosari
-* [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 301 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 by heart
+* [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 302 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 by heart
 * [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) ⭐ 205 | 🐛 0 | 🌐 Swift | 📅 2019-08-19 by marty-suzuki
 * [An app that composes text over an image in SwiftUI](https://github.com/dempseyatgithub/MemeMaker) ⭐ 101 | 🐛 0 | 🌐 Swift | 📅 2019-06-12 by dempseyatgithub
 * [Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-Flux) ⭐ 95 | 🐛 0 | 🌐 Swift | 📅 2019-08-06 by kitasuke
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
