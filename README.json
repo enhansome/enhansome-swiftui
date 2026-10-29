@@ -1096,7 +1096,7 @@
                 "language": "Swift",
                 "license": null,
                 "last_commit": "2019-06-27T06:48:08Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "alexliubj",
                 "repo": "SwiftUI-Currency-Converter",
                 "stars": 68,
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T08:51:31.474Z",
+    "last_updated": "2026-10-29T08:45:17.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",

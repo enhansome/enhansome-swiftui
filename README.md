@@ -249,7 +249,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) ⭐ 205 | 🐛 0 | 🌐 Swift | 📅 2019-08-19 by marty-suzuki
 * [An app that composes text over an image in SwiftUI](https://github.com/dempseyatgithub/MemeMaker) ⭐ 101 | 🐛 0 | 🌐 Swift | 📅 2019-06-12 by dempseyatgithub
 * [Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-Flux) ⭐ 95 | 🐛 0 | 🌐 Swift | 📅 2019-08-06 by kitasuke
-* [Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter) ⭐ 68 | 🐛 2 | 🌐 Swift | 📅 2019-06-27 by alexliubj
+* [Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter) ⭐ 68 | 🐛 3 | 🌐 Swift | 📅 2019-06-27 by alexliubj
 * [Koober a ride-hailing app from Advanced iOS App Architecture book](https://github.com/raywenderlich/swiftui-example-app-koober) ⭐ 60 | 🐛 1 | 🌐 Swift | 📅 2019-09-08 by raywenderlich
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2024-09-21 by maoyama
 * [A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask](https://github.com/niazoff/Chat) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2019-06-21 by niazoff
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
