@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5445,
+                "stars": 5444,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5445,
+                "stars": 5444,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -305,7 +305,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2728,
+                "stars": 2729,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2506,
+                "stars": 2507,
                 "topics": [
                   "ios",
                   "macos",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6608,
+                "stars": 6609,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1724,
+                "stars": 1725,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:51:48.445Z",
+    "last_updated": "2026-10-31T08:40:20.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,10 +1392,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 32,
+      "open_issues": 31,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1963,
+      "stars": 1962,
       "topics": [
         "combine",
         "guide",
