@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4467,
+                "stars": 4466,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -305,7 +305,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2730,
+                "stars": 2734,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1559,
+                "stars": 1558,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6528,
+                "stars": 6527,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -784,7 +784,7 @@
                 "open_issues": 96,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5650,
+                "stars": 5649,
                 "topics": [
                   "chart",
                   "charts",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5627,
+                "stars": 5628,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1724,
+                "stars": 1725,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:51:37.681Z",
+    "last_updated": "2026-11-05T09:44:13.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1395,7 +1395,7 @@
       "open_issues": 31,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1962,
+      "stars": 1961,
       "topics": [
         "combine",
         "guide",
