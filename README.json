@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5443,
+                "stars": 5441,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5443,
+                "stars": 5441,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4465,
+                "stars": 4464,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -305,7 +305,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2735,
+                "stars": 2736,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -392,7 +392,7 @@
                 "id": 207260073,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-07-08T08:22:38Z",
+                "last_commit": "2026-11-06T10:00:53Z",
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
@@ -545,7 +545,7 @@
                 "open_issues": 7,
                 "owner": "Cay-Zhang",
                 "repo": "SwiftSpeech",
-                "stars": 529,
+                "stars": 528,
                 "topics": [
                   "audio",
                   "combine",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6527,
+                "stars": 6526,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5628,
+                "stars": 5627,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -896,7 +896,7 @@
                 "open_issues": 1,
                 "owner": "kitasuke",
                 "repo": "SwiftUI-MVVM",
-                "stars": 809,
+                "stars": 808,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -947,7 +947,7 @@
                 "open_issues": 1,
                 "owner": "ra1028",
                 "repo": "SwiftUI-Combine",
-                "stars": 451,
+                "stars": 450,
                 "topics": [
                   "combine",
                   "swiftui"
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T09:40:17.132Z",
+    "last_updated": "2026-11-07T09:03:10.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
