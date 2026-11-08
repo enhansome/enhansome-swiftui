@@ -305,7 +305,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2736,
+                "stars": 2737,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "ios",
                   "macos",
@@ -545,7 +545,7 @@
                 "open_issues": 7,
                 "owner": "Cay-Zhang",
                 "repo": "SwiftSpeech",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "audio",
                   "combine",
@@ -603,7 +603,7 @@
                 "open_issues": 4,
                 "owner": "huybuidac",
                 "repo": "SwiftUIFontIcon",
-                "stars": 135,
+                "stars": 134,
                 "topics": [
                   "font",
                   "fontawesome",
@@ -689,7 +689,7 @@
                 "open_issues": 2,
                 "owner": "onurhuseyincantay",
                 "repo": "Hover",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "combine",
                   "combine-framework",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:03:10.733Z",
+    "last_updated": "2026-11-08T09:20:34.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1395,7 +1395,7 @@
       "open_issues": 31,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1961,
+      "stars": 1962,
       "topics": [
         "combine",
         "guide",

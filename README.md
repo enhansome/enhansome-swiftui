@@ -215,23 +215,23 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Libraries
 
-* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,736 | 🐛 3 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
-* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,508 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
+* [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) ⭐ 2,737 | 🐛 3 | 🌐 Swift | 📅 2026-09-11 by Sindre Sorhus
+* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) ⭐ 2,509 | 🐛 23 | 🌐 Swift | 📅 2026-06-23 by Sindre Sorhus
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) ⭐ 1,645 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,568 | 🐛 0 | 🌐 Swift | 📅 2026-11-06 by Exyte
 * [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) ⭐ 1,558 | 🐛 15 | 🌐 Swift | 📅 2025-11-10 by Sindre Sorhus
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) ⚠️ Archived by Apptek Studios
 * [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 642 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 by Deniz Adalar
 * [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) ⭐ 551 | 🐛 11 | 🌐 Swift | 📅 2026-10-12 by lludo
-* [SwiftSpeech: A speech recognition framework designed for SwiftUI](https://github.com/Cay-Zhang/SwiftSpeech) ⭐ 528 | 🐛 7 | 🌐 Swift | 📅 2021-07-27 by Cay Zhang
+* [SwiftSpeech: A speech recognition framework designed for SwiftUI](https://github.com/Cay-Zhang/SwiftSpeech) ⭐ 529 | 🐛 7 | 🌐 Swift | 📅 2021-07-27 by Cay Zhang
 * [Async image loading](https://github.com/cmtrounce/SwURL) ⭐ 200 | 🐛 1 | 🌐 Swift | 📅 2023-07-06 by Callum Trounce
-* [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) ⭐ 135 | 🐛 4 | 🌐 Swift | 📅 2020-09-04 by Huy Bui Dac
+* [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) ⭐ 134 | 🐛 4 | 🌐 Swift | 📅 2020-09-04 by Huy Bui Dac
 * [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject) ⭐ 69 | 🐛 0 | 🌐 Swift | 📅 2024-04-21
 * [SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI](https://github.com/maoyama/SyntaxHighlight) ⭐ 42 | 🐛 0 | 🌐 Swift | 📅 2025-06-14 by maoyama
 
 ### Combine
 
-* [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) ⭐ 128 | 🐛 2 | 🌐 Swift | 📅 2023-03-24 by Onur H. Cantay
+* [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) ⭐ 129 | 🐛 2 | 🌐 Swift | 📅 2023-03-24 by Onur H. Cantay
 
 ### Open Source Apps
 
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
