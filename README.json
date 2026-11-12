@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5441,
+                "stars": 5440,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5441,
+                "stars": 5440,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -305,7 +305,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2740,
+                "stars": 2741,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -396,7 +396,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1568,
+                "stars": 1569,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6608,
+                "stars": 6609,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -917,7 +917,7 @@
                 "open_issues": 3,
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
-                "stars": 734,
+                "stars": 733,
                 "topics": [
                   "demo",
                   "ios",
@@ -1031,7 +1031,7 @@
                 "open_issues": 0,
                 "owner": "marty-suzuki",
                 "repo": "GitHubSearchWithSwiftUI",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "combine",
                   "swift",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:43:32.585Z",
+    "last_updated": "2026-11-12T10:04:09.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,7 +1392,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 36,
+      "open_issues": 35,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
       "stars": 1964,
