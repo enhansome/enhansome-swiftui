@@ -396,7 +396,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1569,
+                "stars": 1570,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -575,7 +575,7 @@
                 "open_issues": 1,
                 "owner": "cmtrounce",
                 "repo": "SwURL",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "asyncimage",
                   "image-loading-from-server",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6527,
+                "stars": 6526,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5629,
+                "stars": 5628,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -917,7 +917,7 @@
                 "open_issues": 3,
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "demo",
                   "ios",
@@ -971,7 +971,7 @@
                 "open_issues": 3,
                 "owner": "alfianlosari",
                 "repo": "SwiftUI-MovieDB",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "declarative",
                   "ios",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T10:04:09.076Z",
+    "last_updated": "2026-11-13T09:51:19.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
