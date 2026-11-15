@@ -201,11 +201,11 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 * [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,440 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
 * [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) ⭐ 5,440 | 🐛 1 | 🌐 Swift | 📅 2024-02-17 by Jinxiansen
-* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,462 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
+* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,463 | 🐛 3 | 📅 2022-09-04 by SimpleBoilerplates
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) ⚠️ Archived by Dmytro Anokhin
-* [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) ⭐ 740 | 🐛 9 | 🌐 Swift | 📅 2022-07-26 by carson-katri
+* [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) ⭐ 741 | 🐛 9 | 🌐 Swift | 📅 2022-07-26 by carson-katri
 * [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) ⭐ 658 | 🐛 4 | 🌐 Swift | 📅 2022-02-21 by pietropizzi
-* [SwiftUI phone number text field](https://github.com/MojtabaHs/iPhoneNumberField) ⭐ 580 | 🐛 5 | 🌐 Swift | 📅 2025-02-28 by MojtabaHs
+* [SwiftUI phone number text field](https://github.com/MojtabaHs/iPhoneNumberField) ⭐ 581 | 🐛 5 | 🌐 Swift | 📅 2025-02-28 by MojtabaHs
 * [A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets](https://github.com/a2/KeyboardAvoiding) ⚠️ Archived by a2
 * [FlowStack is a grid layout component](https://github.com/johnsusek/FlowStack) ⚠️ Archived by johnsusek
 * [Flux pattern for SwiftUI](https://github.com/johnsusek/fluxus/blob/master/README.md) ⚠️ Archived by johnsusek
@@ -236,8 +236,8 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 ### Open Source Apps
 
 * [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) ⭐ 6,610 | 🐛 20 | 🌐 Swift | 📅 2025-07-14 by Alexey Naumov
-* [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,526 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
-* [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,647 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
+* [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) ⭐ 6,525 | 🐛 15 | 🌐 Swift | 📅 2024-01-17 by Dimillian (Thomas Ricouard)
+* [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) ⭐ 5,648 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 by AppPear
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) ⭐ 5,627 | 🐛 8 | 🌐 Swift | 📅 2023-12-07 by ivanvorobei
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) ⭐ 1,725 | 🐛 28 | 🌐 Swift | 📅 2023-12-06 by Dimillian (Thomas Ricouard)
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode-SwiftUI) ⭐ 828 | 🐛 0 | 🌐 Swift | 📅 2019-11-10 by mythxn
@@ -245,7 +245,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048) ⭐ 734 | 🐛 3 | 🌐 Swift | 📅 2020-07-17 by unixzii
 * [This is an example project of SwiftUI and Combine using GitHub API](https://github.com/ra1028/SwiftUI-Combine) ⭐ 450 | 🐛 1 | 🌐 Swift | 📅 2019-10-13 by ra1028
 * [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) ⭐ 316 | 🐛 3 | 🌐 Swift | 📅 2020-03-06 by alfianlosari
-* [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 303 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 by heart
+* [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 304 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 by heart
 * [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) ⭐ 206 | 🐛 0 | 🌐 Swift | 📅 2019-08-19 by marty-suzuki
 * [An app that composes text over an image in SwiftUI](https://github.com/dempseyatgithub/MemeMaker) ⭐ 101 | 🐛 0 | 🌐 Swift | 📅 2019-06-12 by dempseyatgithub
 * [Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-Flux) ⭐ 95 | 🐛 0 | 🌐 Swift | 📅 2019-08-06 by kitasuke
@@ -291,4 +291,4 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

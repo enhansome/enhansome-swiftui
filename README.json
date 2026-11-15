@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4462,
+                "stars": 4463,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -129,7 +129,7 @@
                 "open_issues": 9,
                 "owner": "carson-katri",
                 "repo": "swift-request",
-                "stars": 740,
+                "stars": 741,
                 "topics": [
                   "declarative",
                   "dsl",
@@ -186,7 +186,7 @@
                 "open_issues": 5,
                 "owner": "MojtabaHs",
                 "repo": "iPhoneNumberField",
-                "stars": 580,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6526,
+                "stars": 6525,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -784,7 +784,7 @@
                 "open_issues": 96,
                 "owner": "AppPear",
                 "repo": "ChartView",
-                "stars": 5647,
+                "stars": 5648,
                 "topics": [
                   "chart",
                   "charts",
@@ -1001,7 +1001,7 @@
                 "open_issues": 17,
                 "owner": "heart",
                 "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-                "stars": 303,
+                "stars": 304,
                 "topics": [
                   "barcode-generator",
                   "barcode-scanner",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:14:46.479Z",
+    "last_updated": "2026-11-15T09:44:51.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
