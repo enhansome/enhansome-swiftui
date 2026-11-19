@@ -305,7 +305,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2743,
+                "stars": 2742,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -396,7 +396,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1570,
+                "stars": 1571,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6609,
+                "stars": 6608,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5625,
+                "stars": 5626,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -896,7 +896,7 @@
                 "open_issues": 1,
                 "owner": "kitasuke",
                 "repo": "SwiftUI-MVVM",
-                "stars": 809,
+                "stars": 808,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:29:51.839Z",
+    "last_updated": "2026-11-19T10:37:09.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
