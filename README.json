@@ -396,7 +396,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "ConcentricOnboarding",
-                "stars": 1570,
+                "stars": 1571,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6523,
+                "stars": 6524,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -917,7 +917,7 @@
                 "open_issues": 3,
                 "owner": "unixzii",
                 "repo": "SwiftUI-2048",
-                "stars": 734,
+                "stars": 733,
                 "topics": [
                   "demo",
                   "ios",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:48:08.905Z",
+    "last_updated": "2026-11-25T11:34:20.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
