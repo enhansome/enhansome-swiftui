@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5438,
+                "stars": 5437,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Jinxiansen",
                 "repo": "SwiftUI",
-                "stars": 5438,
+                "stars": 5437,
                 "topics": [
                   "articles",
                   "swiftui",
@@ -186,7 +186,7 @@
                 "open_issues": 5,
                 "owner": "MojtabaHs",
                 "repo": "iPhoneNumberField",
-                "stars": 581,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -305,7 +305,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "KeyboardShortcuts",
-                "stars": 2746,
+                "stars": 2745,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "Defaults",
-                "stars": 2509,
+                "stars": 2508,
                 "topics": [
                   "ios",
                   "macos",
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "sindresorhus",
                 "repo": "Settings",
-                "stars": 1559,
+                "stars": 1560,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -514,7 +514,7 @@
                 "open_issues": 11,
                 "owner": "lludo",
                 "repo": "SwiftSunburstDiagram",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "chart",
                   "diagram",
@@ -726,7 +726,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6608,
+                "stars": 6607,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -763,7 +763,7 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6524,
+                "stars": 6522,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:21.476Z"
@@ -811,7 +811,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5627,
+                "stars": 5626,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -840,7 +840,7 @@
                 "open_issues": 28,
                 "owner": "Dimillian",
                 "repo": "ACHNBrowserUI",
-                "stars": 1726,
+                "stars": 1725,
                 "topics": [
                   "animal-crossing",
                   "animal-crossing-new-horizons",
@@ -871,7 +871,7 @@
                 "open_issues": 0,
                 "owner": "mythxn",
                 "repo": "designcode-swiftui",
-                "stars": 828,
+                "stars": 827,
                 "topics": [
                   "swift",
                   "swiftui",
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:12:17.566Z",
+    "last_updated": "2026-11-28T10:44:01.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
@@ -1392,10 +1392,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-10T10:13:10Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "vlondon",
       "repo": "awesome-swiftui",
-      "stars": 1966,
+      "stars": 1965,
       "topics": [
         "combine",
         "guide",
